@@ -1,0 +1,19 @@
+
+	--------------------------------------
+	| @  author    : 0xR                 |
+	|   GitHub    : @therboy            |
+	|   Developer : Reza Khodarahimi    |
+	| 﫥  Copyright   2024                |
+	--------------------------------------
+
+Cpu:0,7
+IO:4
+
+Cpu:1,8
+IO:0,5
+
+Cpu:0,5
+IO:4
+
+Cpu:1,3
+IO:0
