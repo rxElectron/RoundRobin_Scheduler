@@ -39,6 +39,7 @@ This project simulates process scheduling using the Round Robin algorithm. The s
 
    ```bash
    pip install -r requirements.txt
+   pip install -r requirements.txt --break-system-packages
    ```
 
 ### 🛠️ Additional Setup for `tkinter`
