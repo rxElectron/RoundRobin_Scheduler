@@ -1,5 +1,5 @@
 
-# OS Project: Round Robin Process Scheduler
+#Round Robin Process Scheduler
 
 This project simulates process scheduling using the Round Robin algorithm. The simulation includes process creation, execution, and visualization.
 
