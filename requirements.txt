@@ -1,12 +1,3 @@
-
-	--------------------------------------
-	| @  author    : xElectron           |
-	|   GitHub    : @therboy            |
-	|   Developer : Reza Khodarahimi    |
-	| 﫥  Copyright   2024                |
-	--------------------------------------
-
-
 matplotlib
 # logging
 datetime
