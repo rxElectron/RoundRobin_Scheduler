@@ -31,7 +31,7 @@ This project simulates process scheduling using the Round Robin algorithm. The s
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/therboy/RoundRobin_Scheduler.git
+   git clone https://github.com/rxElectron/RoundRobin_Scheduler.git
    cd RoundRobin_Scheduler
    ```
 
